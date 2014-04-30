@@ -665,6 +665,20 @@ a.tooltip span {
 	width: 16px;
 	height: 16px;
 }
+
+.tooltip span {
+	border-radius: 10px;
+}
+
+.tooltip h5 {
+	background: #48A770;
+	width: 240px;
+	margin: -14px 0 0 -20px;
+	height: 50px;
+	border-radius: 10px;
+	line-height: 50px;
+}
+
 .ss-info:hover {
     -webkit-filter: blur(2px);
     -moz-filter: blur(2px);
